@@ -13,7 +13,7 @@
 
 ### [现在开始](#qstart)
 
-### [项目结构](#projectcatalog)
+### [项目结构](#projectdire)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-#### 项目结构
+#### <span id="projectdire">项目结构</span>
 
 ```text
 ├─config
