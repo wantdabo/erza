@@ -1,7 +1,7 @@
 # Erza
 这是集成 Goblin 前端框架，Queen 后端框架，构成的双端开发框架。主要以 .NET/C# 为技术栈设计的框架
 ### 大致全貌
-- ENet 套字节
+- TCP 通信
 - MessagePack 协议
 - MongoDB 数据库
 - Luban 配置
